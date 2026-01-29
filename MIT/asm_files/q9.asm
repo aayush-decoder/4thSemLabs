@@ -1,0 +1,3 @@
+MVI A, 91H
+STA 0008H
+HLT

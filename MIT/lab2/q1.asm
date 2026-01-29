@@ -1,0 +1,3 @@
+LXI H, 0008H
+MOV B, M
+HLT
